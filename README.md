@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abie McIntyre
-- 🌱 I’m currently learning computer science and cybersecurity at Fairmont State
+- 🌱 I’m currently studying computer science and cybersecurity at Fairmont State
 .
 
 <!---
