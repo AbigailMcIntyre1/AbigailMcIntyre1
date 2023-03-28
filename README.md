@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abie Spencer (McIntyre)
+- 👋 Hi, I’m Abigail Spencer (McIntyre)
 - 🌱 I’m currently studying computer science and cybersecurity at Fairmont State with a minor in mathematics
 .
 
